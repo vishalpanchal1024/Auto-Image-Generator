@@ -1,4 +1,4 @@
-# auto_image_genrations
+## Auto Image Genrator
 
 A new Flutter project.
 

@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'Image_generation_Model.dart';
 
 class ApiClientResponce {
-  String token = 'Bearer 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';
+  String token = 'Enter your token';
 
   Future<ImageGenerationModel>? getImagesResponse(
       String description, int numberOfImages) async {
